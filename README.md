@@ -24,6 +24,10 @@ Import the package and use the Widget in your app in this way:
               ), `
 
 
+The major properties of the widget that can be used to customize it in your way are:
+
+`notify, notifs, size, onTap`
+
 Please see the example app of this plugin for a full example.
 
 ## Getting Started
