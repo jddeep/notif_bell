@@ -1,8 +1,8 @@
 name: notif_bell
 description: A new flutter plugin project. THE FRONTEND FOR YOUR APP NOTIFICATIONS.
-version: 0.1.1
+version: 0.1.2
 author: jddeep <jddeep003@gmail.com>
-homepage: https://github.com/jddeep
+homepage: https://github.com/jddeep/notif_bell
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

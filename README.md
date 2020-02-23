@@ -5,13 +5,26 @@ A new flutter plugin project.
 THE FRONTEND FOR YOUR APP NOTIFICATIONS.
 NotifBell helps you maintain the notifications to your user by just passing some important parameters like size and whether to notify or not.
 
-Use the Widget in your app in this way:
+
+<img src="\preview.png" width=300>
+
+
+## Usage
+
+To use this plugin add `notif_bell` as a dependency in your pubspec.yaml file.
+
+Import the package and use the Widget in your app in this way:
+
+## Example
 
 ` NotifBell(
                 notify: true,
                 size: 35.0, // size of the widget.
                 notifs: 2,
               ), `
+
+
+Please see the example app of this plugin for a full example.
 
 ## Getting Started
 
