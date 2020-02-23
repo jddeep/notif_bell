@@ -6,7 +6,7 @@ THE FRONTEND FOR YOUR APP NOTIFICATIONS.
 NotifBell helps you maintain the notifications to your user by just passing some important parameters like size and whether to notify or not.
 
 
-<img src="\preview.png" width=300>
+<img src="/preview.png" width=300>
 
 
 ## Usage
