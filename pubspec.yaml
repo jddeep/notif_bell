@@ -1,8 +1,6 @@
 name: notif_bell
-description: A new flutter plugin project.
-             THE FRONTEND FOR YOUR APP NOTIFICATIONS.
-             NotifBell helps you maintain the notifications to your user by just passing some important parameters like size and whether to notify or not.
-version: 0.1.0
+description: A new flutter plugin project. THE FRONTEND FOR YOUR APP NOTIFICATIONS.
+version: 0.1.1
 author: jddeep <jddeep003@gmail.com>
 homepage: https://github.com/jddeep
 
