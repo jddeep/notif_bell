@@ -1,6 +1,6 @@
 name: notif_bell
 description: The frontend for your app notifications. Maintains notifications presented to user.
-version: 0.1.3
+version: 0.1.4
 author: jddeep <jddeep003@gmail.com>
 homepage: https://github.com/jddeep/notif_bell
 
