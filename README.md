@@ -1,10 +1,9 @@
 # notif_bell
 
-A new flutter plugin project.
-
 THE FRONTEND FOR YOUR APP NOTIFICATIONS.
-NotifBell helps you maintain the notifications to your user by just passing some important parameters like size and whether to notify or not.
-
+`notif_bell` serves as your customizable notification badge or widget in your app. It helps you maintain the notifications to your user by passing some required parameters like size and whether to notify or not and more optional parameters to customize your notification widget.
+Notification Widget in Flutter.
+Notification Badge in Flutter.
 
 <img src="https://i.imgur.com/gwMJZfn.png" width=300>
 
@@ -29,14 +28,3 @@ The major properties of the widget that can be used to customize it in your way 
 `notify, notifs, size, onTap`
 
 Please see the example app of this plugin for a full example.
-
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
